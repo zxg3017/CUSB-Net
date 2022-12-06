@@ -1,5 +1,5 @@
 # CUSB-Net
-The codes for the work  "CUSB-Net: A cascaded unsupervised-based strategy boost supervised learning model for automated biomedical image segmentation and classification".
+The codes for the work  CUSB-Net.
 
 Requirements
 
